@@ -1,24 +1,35 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import { Box, Paper } from "@mui/material";
+import Header from "./Company-module/Header";
+import CompanyTables from "./Company-module/CompanyTable";
 
 function App() {
+  const [search, setSearch] = useState("");
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+    <>
+      <Box sx={{ width: "100%", mb: 4}}>
+        <Header
+          searchValue={search}
+          onSearchChange={(value) => setSearch(value)}
+        />
+      </Box>
+      <Box
+        sx={{
+          width: "100%"
+        }}
+      >
+        <Paper
+          elevation={5}
+          sx={{
+            width: "100%"
+          }}
         >
-          Learn React
-        </a>
-      </header>
-    </div>
+          <CompanyTables searchValue={search} />
+        </Paper>
+      </Box>
+
+    </>
   );
 }
 

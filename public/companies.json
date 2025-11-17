@@ -1,0 +1,1286 @@
+[
+    {
+        "name": "TechNova Solutions",
+        "company_identification_number": "CIN12345678",
+        "registered_date": "2018-04-15",
+        "status": "Active",
+        "state": "Karnataka",
+        "details": {
+            "industry": "Software Development",
+            "employees": 120,
+            "email": "contact@technova.com"
+        }
+    },
+    {
+        "name": "GreenLeaf Organics",
+        "company_identification_number": "CIN98765432",
+        "registered_date": "2020-09-10",
+        "status": "Active",
+        "state": "Maharashtra",
+        "details": {
+            "industry": "Food & Agriculture",
+            "employees": 45,
+            "email": "info@greenleaf.com"
+        }
+    },
+    {
+        "name": "BrightVision Marketing",
+        "company_identification_number": "CIN56781234",
+        "registered_date": "2017-01-22",
+        "status": "Inactive",
+        "state": "Tamil Nadu",
+        "details": {
+            "industry": "Marketing",
+            "employees": 30,
+            "email": "hello@brightvision.com"
+        }
+    },
+    {
+        "name": "SkyHigh Constructions",
+        "company_identification_number": "CIN44556677",
+        "registered_date": "2015-07-18",
+        "status": "Active",
+        "state": "Delhi",
+        "details": {
+            "industry": "Construction",
+            "employees": 300,
+            "email": "support@skyhigh.com"
+        }
+    },
+    {
+        "name": "EduSmart Learning",
+        "company_identification_number": "CIN11223344",
+        "registered_date": "2019-12-02",
+        "status": "Active",
+        "state": "Telangana",
+        "details": {
+            "industry": "EdTech",
+            "employees": 80,
+            "email": "team@edusmart.com"
+        }
+    },
+    {
+        "name": "HealthPlus Pharma",
+        "company_identification_number": "CIN55667788",
+        "registered_date": "2016-03-30",
+        "status": "Inactive",
+        "state": "Gujarat",
+        "details": {
+            "industry": "Pharmaceuticals",
+            "employees": 150,
+            "email": "info@healthplus.com"
+        }
+    },
+    {
+        "name":"Frontlines Media",
+        "company_identification_number":"CIN33445566",
+        "registered_date":"2021-06-14",
+        "status":"Active",
+        "state":"Telangana",
+        "details":{
+            "industry":"Media & IT Services",
+            "employees":60,
+            "email":"info@frontlinesmedia.com"
+        }
+    },
+    {
+        "name": "Sample Company 1",
+        "company_identification_number": "CIN00000001",
+        "registered_date": "2020-02-02",
+        "status": "Active",
+        "state": "Karnataka",
+        "details": {
+            "industry": "Agriculture",
+            "employees": 17,
+            "email": "contact1@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 2",
+        "company_identification_number": "CIN00000002",
+        "registered_date": "2020-03-03",
+        "status": "Active",
+        "state": "Tamil Nadu",
+        "details": {
+            "industry": "Construction",
+            "employees": 24,
+            "email": "contact2@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 3",
+        "company_identification_number": "CIN00000003",
+        "registered_date": "2020-04-04",
+        "status": "Active",
+        "state": "Kerala",
+        "details": {
+            "industry": "Pharmaceuticals",
+            "employees": 31,
+            "email": "contact3@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 4",
+        "company_identification_number": "CIN00000004",
+        "registered_date": "2020-05-05",
+        "status": "Active",
+        "state": "Gujarat",
+        "details": {
+            "industry": "Renewable Energy",
+            "employees": 38,
+            "email": "contact4@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 5",
+        "company_identification_number": "CIN00000005",
+        "registered_date": "2020-06-06",
+        "status": "Active",
+        "state": "Rajasthan",
+        "details": {
+            "industry": "Electronics",
+            "employees": 45,
+            "email": "contact5@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 6",
+        "company_identification_number": "CIN00000006",
+        "registered_date": "2020-07-07",
+        "status": "Active",
+        "state": "Punjab",
+        "details": {
+            "industry": "Food Processing",
+            "employees": 52,
+            "email": "contact6@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 7",
+        "company_identification_number": "CIN00000007",
+        "registered_date": "2020-08-08",
+        "status": "Active",
+        "state": "Haryana",
+        "details": {
+            "industry": "Telecommunications",
+            "employees": 59,
+            "email": "contact7@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 8",
+        "company_identification_number": "CIN00000008",
+        "registered_date": "2020-09-09",
+        "status": "Active",
+        "state": "Goa",
+        "details": {
+            "industry": "Water Treatment",
+            "employees": 66,
+            "email": "contact8@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 9",
+        "company_identification_number": "CIN00000009",
+        "registered_date": "2020-10-10",
+        "status": "Active",
+        "state": "Delhi",
+        "details": {
+            "industry": "Transportation",
+            "employees": 73,
+            "email": "contact9@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 10",
+        "company_identification_number": "CIN00000010",
+        "registered_date": "2020-11-11",
+        "status": "Active",
+        "state": "Maharashtra",
+        "details": {
+            "industry": "Information Technology",
+            "employees": 80,
+            "email": "contact10@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 11",
+        "company_identification_number": "CIN00000011",
+        "registered_date": "2020-12-12",
+        "status": "Active",
+        "state": "Karnataka",
+        "details": {
+            "industry": "Agriculture",
+            "employees": 87,
+            "email": "contact11@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 12",
+        "company_identification_number": "CIN00000012",
+        "registered_date": "2020-01-13",
+        "status": "Active",
+        "state": "Tamil Nadu",
+        "details": {
+            "industry": "Construction",
+            "employees": 94,
+            "email": "contact12@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 13",
+        "company_identification_number": "CIN00000013",
+        "registered_date": "2020-02-14",
+        "status": "Active",
+        "state": "Kerala",
+        "details": {
+            "industry": "Pharmaceuticals",
+            "employees": 101,
+            "email": "contact13@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 14",
+        "company_identification_number": "CIN00000014",
+        "registered_date": "2020-03-15",
+        "status": "Active",
+        "state": "Gujarat",
+        "details": {
+            "industry": "Renewable Energy",
+            "employees": 108,
+            "email": "contact14@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 15",
+        "company_identification_number": "CIN00000015",
+        "registered_date": "2020-04-16",
+        "status": "Active",
+        "state": "Rajasthan",
+        "details": {
+            "industry": "Electronics",
+            "employees": 115,
+            "email": "contact15@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 16",
+        "company_identification_number": "CIN00000016",
+        "registered_date": "2020-05-17",
+        "status": "Active",
+        "state": "Punjab",
+        "details": {
+            "industry": "Food Processing",
+            "employees": 122,
+            "email": "contact16@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 17",
+        "company_identification_number": "CIN00000017",
+        "registered_date": "2020-06-18",
+        "status": "Active",
+        "state": "Haryana",
+        "details": {
+            "industry": "Telecommunications",
+            "employees": 129,
+            "email": "contact17@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 18",
+        "company_identification_number": "CIN00000018",
+        "registered_date": "2020-07-19",
+        "status": "Active",
+        "state": "Goa",
+        "details": {
+            "industry": "Water Treatment",
+            "employees": 136,
+            "email": "contact18@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 19",
+        "company_identification_number": "CIN00000019",
+        "registered_date": "2020-08-20",
+        "status": "Active",
+        "state": "Delhi",
+        "details": {
+            "industry": "Transportation",
+            "employees": 143,
+            "email": "contact19@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 20",
+        "company_identification_number": "CIN00000020",
+        "registered_date": "2020-09-21",
+        "status": "Active",
+        "state": "Maharashtra",
+        "details": {
+            "industry": "Information Technology",
+            "employees": 150,
+            "email": "contact20@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 21",
+        "company_identification_number": "CIN00000021",
+        "registered_date": "2020-10-22",
+        "status": "Active",
+        "state": "Karnataka",
+        "details": {
+            "industry": "Agriculture",
+            "employees": 157,
+            "email": "contact21@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 22",
+        "company_identification_number": "CIN00000022",
+        "registered_date": "2020-11-23",
+        "status": "Active",
+        "state": "Tamil Nadu",
+        "details": {
+            "industry": "Construction",
+            "employees": 164,
+            "email": "contact22@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 23",
+        "company_identification_number": "CIN00000023",
+        "registered_date": "2020-12-24",
+        "status": "Active",
+        "state": "Kerala",
+        "details": {
+            "industry": "Pharmaceuticals",
+            "employees": 171,
+            "email": "contact23@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 24",
+        "company_identification_number": "CIN00000024",
+        "registered_date": "2020-01-25",
+        "status": "Active",
+        "state": "Gujarat",
+        "details": {
+            "industry": "Renewable Energy",
+            "employees": 178,
+            "email": "contact24@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 25",
+        "company_identification_number": "CIN00000025",
+        "registered_date": "2020-02-26",
+        "status": "Active",
+        "state": "Rajasthan",
+        "details": {
+            "industry": "Electronics",
+            "employees": 185,
+            "email": "contact25@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 26",
+        "company_identification_number": "CIN00000026",
+        "registered_date": "2020-03-27",
+        "status": "Active",
+        "state": "Punjab",
+        "details": {
+            "industry": "Food Processing",
+            "employees": 192,
+            "email": "contact26@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 27",
+        "company_identification_number": "CIN00000027",
+        "registered_date": "2020-04-28",
+        "status": "Active",
+        "state": "Haryana",
+        "details": {
+            "industry": "Telecommunications",
+            "employees": 199,
+            "email": "contact27@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 28",
+        "company_identification_number": "CIN00000028",
+        "registered_date": "2020-05-01",
+        "status": "Active",
+        "state": "Goa",
+        "details": {
+            "industry": "Water Treatment",
+            "employees": 206,
+            "email": "contact28@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 29",
+        "company_identification_number": "CIN00000029",
+        "registered_date": "2020-06-02",
+        "status": "Active",
+        "state": "Delhi",
+        "details": {
+            "industry": "Transportation",
+            "employees": 213,
+            "email": "contact29@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 30",
+        "company_identification_number": "CIN00000030",
+        "registered_date": "2020-07-03",
+        "status": "Active",
+        "state": "Maharashtra",
+        "details": {
+            "industry": "Information Technology",
+            "employees": 220,
+            "email": "contact30@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 31",
+        "company_identification_number": "CIN00000031",
+        "registered_date": "2020-08-04",
+        "status": "Active",
+        "state": "Karnataka",
+        "details": {
+            "industry": "Agriculture",
+            "employees": 227,
+            "email": "contact31@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 32",
+        "company_identification_number": "CIN00000032",
+        "registered_date": "2020-09-05",
+        "status": "Active",
+        "state": "Tamil Nadu",
+        "details": {
+            "industry": "Construction",
+            "employees": 234,
+            "email": "contact32@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 33",
+        "company_identification_number": "CIN00000033",
+        "registered_date": "2020-10-06",
+        "status": "Active",
+        "state": "Kerala",
+        "details": {
+            "industry": "Pharmaceuticals",
+            "employees": 241,
+            "email": "contact33@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 34",
+        "company_identification_number": "CIN00000034",
+        "registered_date": "2020-11-07",
+        "status": "Active",
+        "state": "Gujarat",
+        "details": {
+            "industry": "Renewable Energy",
+            "employees": 248,
+            "email": "contact34@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 35",
+        "company_identification_number": "CIN00000035",
+        "registered_date": "2020-12-08",
+        "status": "Active",
+        "state": "Rajasthan",
+        "details": {
+            "industry": "Electronics",
+            "employees": 255,
+            "email": "contact35@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 36",
+        "company_identification_number": "CIN00000036",
+        "registered_date": "2020-01-09",
+        "status": "Active",
+        "state": "Punjab",
+        "details": {
+            "industry": "Food Processing",
+            "employees": 262,
+            "email": "contact36@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 37",
+        "company_identification_number": "CIN00000037",
+        "registered_date": "2020-02-10",
+        "status": "Active",
+        "state": "Haryana",
+        "details": {
+            "industry": "Telecommunications",
+            "employees": 269,
+            "email": "contact37@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 38",
+        "company_identification_number": "CIN00000038",
+        "registered_date": "2020-03-11",
+        "status": "Active",
+        "state": "Goa",
+        "details": {
+            "industry": "Water Treatment",
+            "employees": 276,
+            "email": "contact38@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 39",
+        "company_identification_number": "CIN00000039",
+        "registered_date": "2020-04-12",
+        "status": "Active",
+        "state": "Delhi",
+        "details": {
+            "industry": "Transportation",
+            "employees": 283,
+            "email": "contact39@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 40",
+        "company_identification_number": "CIN00000040",
+        "registered_date": "2020-05-13",
+        "status": "Active",
+        "state": "Maharashtra",
+        "details": {
+            "industry": "Information Technology",
+            "employees": 290,
+            "email": "contact40@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 41",
+        "company_identification_number": "CIN00000041",
+        "registered_date": "2020-06-14",
+        "status": "Active",
+        "state": "Karnataka",
+        "details": {
+            "industry": "Agriculture",
+            "employees": 297,
+            "email": "contact41@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 42",
+        "company_identification_number": "CIN00000042",
+        "registered_date": "2020-07-15",
+        "status": "Active",
+        "state": "Tamil Nadu",
+        "details": {
+            "industry": "Construction",
+            "employees": 304,
+            "email": "contact42@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 43",
+        "company_identification_number": "CIN00000043",
+        "registered_date": "2020-08-16",
+        "status": "Active",
+        "state": "Kerala",
+        "details": {
+            "industry": "Pharmaceuticals",
+            "employees": 311,
+            "email": "contact43@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 44",
+        "company_identification_number": "CIN00000044",
+        "registered_date": "2020-09-17",
+        "status": "Active",
+        "state": "Gujarat",
+        "details": {
+            "industry": "Renewable Energy",
+            "employees": 318,
+            "email": "contact44@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 45",
+        "company_identification_number": "CIN00000045",
+        "registered_date": "2020-10-18",
+        "status": "Active",
+        "state": "Rajasthan",
+        "details": {
+            "industry": "Electronics",
+            "employees": 325,
+            "email": "contact45@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 46",
+        "company_identification_number": "CIN00000046",
+        "registered_date": "2020-11-19",
+        "status": "Active",
+        "state": "Punjab",
+        "details": {
+            "industry": "Food Processing",
+            "employees": 332,
+            "email": "contact46@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 47",
+        "company_identification_number": "CIN00000047",
+        "registered_date": "2020-12-20",
+        "status": "Active",
+        "state": "Haryana",
+        "details": {
+            "industry": "Telecommunications",
+            "employees": 339,
+            "email": "contact47@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 48",
+        "company_identification_number": "CIN00000048",
+        "registered_date": "2020-01-21",
+        "status": "Active",
+        "state": "Goa",
+        "details": {
+            "industry": "Water Treatment",
+            "employees": 346,
+            "email": "contact48@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 49",
+        "company_identification_number": "CIN00000049",
+        "registered_date": "2020-02-22",
+        "status": "Active",
+        "state": "Delhi",
+        "details": {
+            "industry": "Transportation",
+            "employees": 353,
+            "email": "contact49@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 50",
+        "company_identification_number": "CIN00000050",
+        "registered_date": "2020-03-23",
+        "status": "Active",
+        "state": "Maharashtra",
+        "details": {
+            "industry": "Information Technology",
+            "employees": 360,
+            "email": "contact50@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 51",
+        "company_identification_number": "CIN00000051",
+        "registered_date": "2020-04-24",
+        "status": "Active",
+        "state": "Karnataka",
+        "details": {
+            "industry": "Agriculture",
+            "employees": 367,
+            "email": "contact51@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 52",
+        "company_identification_number": "CIN00000052",
+        "registered_date": "2020-05-25",
+        "status": "Active",
+        "state": "Tamil Nadu",
+        "details": {
+            "industry": "Construction",
+            "employees": 374,
+            "email": "contact52@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 53",
+        "company_identification_number": "CIN00000053",
+        "registered_date": "2020-06-26",
+        "status": "Active",
+        "state": "Kerala",
+        "details": {
+            "industry": "Pharmaceuticals",
+            "employees": 381,
+            "email": "contact53@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 54",
+        "company_identification_number": "CIN00000054",
+        "registered_date": "2020-07-27",
+        "status": "Active",
+        "state": "Gujarat",
+        "details": {
+            "industry": "Renewable Energy",
+            "employees": 388,
+            "email": "contact54@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 55",
+        "company_identification_number": "CIN00000055",
+        "registered_date": "2020-08-28",
+        "status": "Active",
+        "state": "Rajasthan",
+        "details": {
+            "industry": "Electronics",
+            "employees": 395,
+            "email": "contact55@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 56",
+        "company_identification_number": "CIN00000056",
+        "registered_date": "2020-09-01",
+        "status": "Active",
+        "state": "Punjab",
+        "details": {
+            "industry": "Food Processing",
+            "employees": 402,
+            "email": "contact56@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 57",
+        "company_identification_number": "CIN00000057",
+        "registered_date": "2020-10-02",
+        "status": "Active",
+        "state": "Haryana",
+        "details": {
+            "industry": "Telecommunications",
+            "employees": 409,
+            "email": "contact57@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 58",
+        "company_identification_number": "CIN00000058",
+        "registered_date": "2020-11-03",
+        "status": "Active",
+        "state": "Goa",
+        "details": {
+            "industry": "Water Treatment",
+            "employees": 416,
+            "email": "contact58@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 59",
+        "company_identification_number": "CIN00000059",
+        "registered_date": "2020-12-04",
+        "status": "Active",
+        "state": "Delhi",
+        "details": {
+            "industry": "Transportation",
+            "employees": 423,
+            "email": "contact59@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 60",
+        "company_identification_number": "CIN00000060",
+        "registered_date": "2020-01-05",
+        "status": "Active",
+        "state": "Maharashtra",
+        "details": {
+            "industry": "Information Technology",
+            "employees": 430,
+            "email": "contact60@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 61",
+        "company_identification_number": "CIN00000061",
+        "registered_date": "2020-02-06",
+        "status": "Active",
+        "state": "Karnataka",
+        "details": {
+            "industry": "Agriculture",
+            "employees": 437,
+            "email": "contact61@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 62",
+        "company_identification_number": "CIN00000062",
+        "registered_date": "2020-03-07",
+        "status": "Active",
+        "state": "Tamil Nadu",
+        "details": {
+            "industry": "Construction",
+            "employees": 444,
+            "email": "contact62@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 63",
+        "company_identification_number": "CIN00000063",
+        "registered_date": "2020-04-08",
+        "status": "Active",
+        "state": "Kerala",
+        "details": {
+            "industry": "Pharmaceuticals",
+            "employees": 451,
+            "email": "contact63@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 64",
+        "company_identification_number": "CIN00000064",
+        "registered_date": "2020-05-09",
+        "status": "Active",
+        "state": "Gujarat",
+        "details": {
+            "industry": "Renewable Energy",
+            "employees": 458,
+            "email": "contact64@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 65",
+        "company_identification_number": "CIN00000065",
+        "registered_date": "2020-06-10",
+        "status": "Active",
+        "state": "Rajasthan",
+        "details": {
+            "industry": "Electronics",
+            "employees": 465,
+            "email": "contact65@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 66",
+        "company_identification_number": "CIN00000066",
+        "registered_date": "2020-07-11",
+        "status": "Active",
+        "state": "Punjab",
+        "details": {
+            "industry": "Food Processing",
+            "employees": 472,
+            "email": "contact66@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 67",
+        "company_identification_number": "CIN00000067",
+        "registered_date": "2020-08-12",
+        "status": "Active",
+        "state": "Haryana",
+        "details": {
+            "industry": "Telecommunications",
+            "employees": 479,
+            "email": "contact67@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 68",
+        "company_identification_number": "CIN00000068",
+        "registered_date": "2020-09-13",
+        "status": "Active",
+        "state": "Goa",
+        "details": {
+            "industry": "Water Treatment",
+            "employees": 486,
+            "email": "contact68@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 69",
+        "company_identification_number": "CIN00000069",
+        "registered_date": "2020-10-14",
+        "status": "Active",
+        "state": "Delhi",
+        "details": {
+            "industry": "Transportation",
+            "employees": 493,
+            "email": "contact69@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 70",
+        "company_identification_number": "CIN00000070",
+        "registered_date": "2020-11-15",
+        "status": "Active",
+        "state": "Maharashtra",
+        "details": {
+            "industry": "Information Technology",
+            "employees": 500,
+            "email": "contact70@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 71",
+        "company_identification_number": "CIN00000071",
+        "registered_date": "2020-12-16",
+        "status": "Active",
+        "state": "Karnataka",
+        "details": {
+            "industry": "Agriculture",
+            "employees": 507,
+            "email": "contact71@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 72",
+        "company_identification_number": "CIN00000072",
+        "registered_date": "2020-01-17",
+        "status": "Active",
+        "state": "Tamil Nadu",
+        "details": {
+            "industry": "Construction",
+            "employees": 14,
+            "email": "contact72@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 73",
+        "company_identification_number": "CIN00000073",
+        "registered_date": "2020-02-18",
+        "status": "Active",
+        "state": "Kerala",
+        "details": {
+            "industry": "Pharmaceuticals",
+            "employees": 21,
+            "email": "contact73@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 74",
+        "company_identification_number": "CIN00000074",
+        "registered_date": "2020-03-19",
+        "status": "Active",
+        "state": "Gujarat",
+        "details": {
+            "industry": "Renewable Energy",
+            "employees": 28,
+            "email": "contact74@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 75",
+        "company_identification_number": "CIN00000075",
+        "registered_date": "2020-04-20",
+        "status": "Active",
+        "state": "Rajasthan",
+        "details": {
+            "industry": "Electronics",
+            "employees": 35,
+            "email": "contact75@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 76",
+        "company_identification_number": "CIN00000076",
+        "registered_date": "2020-05-21",
+        "status": "Active",
+        "state": "Punjab",
+        "details": {
+            "industry": "Food Processing",
+            "employees": 42,
+            "email": "contact76@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 77",
+        "company_identification_number": "CIN00000077",
+        "registered_date": "2020-06-22",
+        "status": "Active",
+        "state": "Haryana",
+        "details": {
+            "industry": "Telecommunications",
+            "employees": 49,
+            "email": "contact77@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 78",
+        "company_identification_number": "CIN00000078",
+        "registered_date": "2020-07-23",
+        "status": "Active",
+        "state": "Goa",
+        "details": {
+            "industry": "Water Treatment",
+            "employees": 56,
+            "email": "contact78@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 79",
+        "company_identification_number": "CIN00000079",
+        "registered_date": "2020-08-24",
+        "status": "Active",
+        "state": "Delhi",
+        "details": {
+            "industry": "Transportation",
+            "employees": 63,
+            "email": "contact79@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 80",
+        "company_identification_number": "CIN00000080",
+        "registered_date": "2020-09-25",
+        "status": "Active",
+        "state": "Maharashtra",
+        "details": {
+            "industry": "Information Technology",
+            "employees": 70,
+            "email": "contact80@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 81",
+        "company_identification_number": "CIN00000081",
+        "registered_date": "2020-10-26",
+        "status": "Active",
+        "state": "Karnataka",
+        "details": {
+            "industry": "Agriculture",
+            "employees": 77,
+            "email": "contact81@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 82",
+        "company_identification_number": "CIN00000082",
+        "registered_date": "2020-11-27",
+        "status": "Active",
+        "state": "Tamil Nadu",
+        "details": {
+            "industry": "Construction",
+            "employees": 84,
+            "email": "contact82@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 83",
+        "company_identification_number": "CIN00000083",
+        "registered_date": "2020-12-28",
+        "status": "Active",
+        "state": "Kerala",
+        "details": {
+            "industry": "Pharmaceuticals",
+            "employees": 91,
+            "email": "contact83@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 84",
+        "company_identification_number": "CIN00000084",
+        "registered_date": "2020-01-01",
+        "status": "Active",
+        "state": "Gujarat",
+        "details": {
+            "industry": "Renewable Energy",
+            "employees": 98,
+            "email": "contact84@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 85",
+        "company_identification_number": "CIN00000085",
+        "registered_date": "2020-02-02",
+        "status": "Active",
+        "state": "Rajasthan",
+        "details": {
+            "industry": "Electronics",
+            "employees": 105,
+            "email": "contact85@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 86",
+        "company_identification_number": "CIN00000086",
+        "registered_date": "2020-03-03",
+        "status": "Active",
+        "state": "Punjab",
+        "details": {
+            "industry": "Food Processing",
+            "employees": 112,
+            "email": "contact86@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 87",
+        "company_identification_number": "CIN00000087",
+        "registered_date": "2020-04-04",
+        "status": "Active",
+        "state": "Haryana",
+        "details": {
+            "industry": "Telecommunications",
+            "employees": 119,
+            "email": "contact87@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 88",
+        "company_identification_number": "CIN00000088",
+        "registered_date": "2020-05-05",
+        "status": "Active",
+        "state": "Goa",
+        "details": {
+            "industry": "Water Treatment",
+            "employees": 126,
+            "email": "contact88@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 89",
+        "company_identification_number": "CIN00000089",
+        "registered_date": "2020-06-06",
+        "status": "Active",
+        "state": "Delhi",
+        "details": {
+            "industry": "Transportation",
+            "employees": 133,
+            "email": "contact89@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 90",
+        "company_identification_number": "CIN00000090",
+        "registered_date": "2020-07-07",
+        "status": "Active",
+        "state": "Maharashtra",
+        "details": {
+            "industry": "Information Technology",
+            "employees": 140,
+            "email": "contact90@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 91",
+        "company_identification_number": "CIN00000091",
+        "registered_date": "2020-08-08",
+        "status": "Active",
+        "state": "Karnataka",
+        "details": {
+            "industry": "Agriculture",
+            "employees": 147,
+            "email": "contact91@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 92",
+        "company_identification_number": "CIN00000092",
+        "registered_date": "2020-09-09",
+        "status": "Active",
+        "state": "Tamil Nadu",
+        "details": {
+            "industry": "Construction",
+            "employees": 154,
+            "email": "contact92@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 93",
+        "company_identification_number": "CIN00000093",
+        "registered_date": "2020-10-10",
+        "status": "Active",
+        "state": "Kerala",
+        "details": {
+            "industry": "Pharmaceuticals",
+            "employees": 161,
+            "email": "contact93@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 94",
+        "company_identification_number": "CIN00000094",
+        "registered_date": "2020-11-11",
+        "status": "Active",
+        "state": "Gujarat",
+        "details": {
+            "industry": "Renewable Energy",
+            "employees": 168,
+            "email": "contact94@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 95",
+        "company_identification_number": "CIN00000095",
+        "registered_date": "2020-12-12",
+        "status": "Active",
+        "state": "Rajasthan",
+        "details": {
+            "industry": "Electronics",
+            "employees": 175,
+            "email": "contact95@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 96",
+        "company_identification_number": "CIN00000096",
+        "registered_date": "2020-01-13",
+        "status": "Active",
+        "state": "Punjab",
+        "details": {
+            "industry": "Food Processing",
+            "employees": 182,
+            "email": "contact96@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 97",
+        "company_identification_number": "CIN00000097",
+        "registered_date": "2020-02-14",
+        "status": "Active",
+        "state": "Haryana",
+        "details": {
+            "industry": "Telecommunications",
+            "employees": 189,
+            "email": "contact97@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 98",
+        "company_identification_number": "CIN00000098",
+        "registered_date": "2020-03-15",
+        "status": "Active",
+        "state": "Goa",
+        "details": {
+            "industry": "Water Treatment",
+            "employees": 196,
+            "email": "contact98@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 99",
+        "company_identification_number": "CIN00000099",
+        "registered_date": "2020-04-16",
+        "status": "Active",
+        "state": "Delhi",
+        "details": {
+            "industry": "Transportation",
+            "employees": 203,
+            "email": "contact99@samplecompany.com"
+        }
+    },
+    {
+        "name": "Sample Company 100",
+        "company_identification_number": "CIN00000100",
+        "registered_date": "2020-05-17",
+        "status": "Active",
+        "state": "Maharashtra",
+        "details": {
+            "industry": "Information Technology",
+            "employees": 210,
+            "email": "contact100@samplecompany.com"
+        }
+    }
+]
